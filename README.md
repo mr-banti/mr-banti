@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Tanmay</h1>
-<h3 align="center">A passionate research student from India</h3>
+<h3 align="center">Researcher in Topology, Space-Time Geometry and High-Energy Physics | Exploring the Intersection of Mathematics and Physics | Open to Research Opportunities 
+
+I am actively seeking research opportunities where I can learn, grow, and contribute my enthusiasm and curiosity, while collaborating with passionate and driven researchers to tackle complex problems.</h3>
 
 
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
